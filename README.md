@@ -1,0 +1,2 @@
+# pyclipboard
+python clipboard manager
