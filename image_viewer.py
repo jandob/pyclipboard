@@ -31,7 +31,8 @@ class ImageViewer(QMainWindow):
         self.setWindowTitle("Image Viewer")
         self.resize(600, 400)
 
-    # def handle_mouse_press(self, event):
+    def handle_mouse_press(self, event):
+        pass
         # if event.buttons() == Qt.LeftButton:
             # print("Left click press")
 
